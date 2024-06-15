@@ -1,0 +1,7 @@
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-experimental==0.0.61
+langchain-openai==0.1.8
+pandas==2.0.3
+streamlit==1.35.0
+streamlit-chat==0.1.1
